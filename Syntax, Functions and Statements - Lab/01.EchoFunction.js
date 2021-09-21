@@ -1,6 +1,6 @@
-function solve(input){
+function echoFunc(input){
     console.log(input.length);
     console.log(input);
 }
 
-solve('strings are easy');
+echoFunc('Hello, JavaScript!');
