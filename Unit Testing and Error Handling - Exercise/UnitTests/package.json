@@ -1,0 +1,15 @@
+{
+  "name": "UnitTests",
+  "version": "1.0.0",
+  "description": "",
+  "main": "isOddOrEven.js",
+  "scripts": {
+    "test": "mocha isOddOrEven.test charLookUp.test mathEnforcer.test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.3.4"
+  }
+}
